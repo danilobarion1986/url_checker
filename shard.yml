@@ -1,0 +1,13 @@
+name: url_checker
+version: 0.1.0
+
+authors:
+  - Danilo Barion Nogueira <danilo.barion@gmail.com>
+
+targets:
+  url_checker:
+    main: src/url_checker.cr
+
+crystal: 0.35.0
+
+license: MIT
