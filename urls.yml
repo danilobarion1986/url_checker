@@ -1,0 +1,5 @@
+urls:
+  - http://google.com
+  - https://amazon.com
+  - localhost:3099
+  - http://non-existent-123456.com
